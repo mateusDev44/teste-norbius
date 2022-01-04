@@ -1,0 +1,57 @@
+.Nav {
+  .navbar {
+    background-color: #120a8f;
+    a {
+      color: white;
+    }
+  }
+
+  .home {
+    display: block;
+    display: block;
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+    background-color: #005eff;
+    border-radius: 50%;
+    border: 1px solid #005eff;
+
+    .bi-house-door-fill {
+      position: relative;
+      top: -6px;
+      right: 1.5px;
+    }
+  }
+
+  .clock {
+    display: block;
+    display: block;
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+    background-color: #005eff;
+    margin-left: 10px;
+    border-radius: 50%;
+    border: 1px solid #005eff;
+
+    .bi-clock {
+      position: relative;
+      top: -6px;
+      right: 1.5px;
+    }
+  }
+
+  .dropdown-item {
+    color: black;
+  }
+
+  #perfil {
+    width: 40px;
+    height: 40px;
+  }
+
+  #bandeira {
+    width: 30px;
+    height: 30px;
+  }
+}

@@ -1,0 +1,61 @@
+
+li {
+  list-style-type: none;
+}
+
+.equipe {
+  text-align: center;
+  background-color: #195cfa;
+  color: white;
+  font-size: 16px;
+}
+
+.presentes {
+  text-align: center;
+  i {
+    color: green;
+  }
+  strong {
+    color: green;
+  }
+}
+
+.ausentes {
+  text-align: center;
+  i {
+    color: orange;
+  }
+  strong {
+    color: orange;
+  }
+}
+
+.prorrogando {
+  text-align: center;
+  i {
+    color: gold;
+  }
+  strong {
+    color: gold;
+  }
+}
+
+.ferias {
+  text-align: center;
+  i {
+    color: purple;
+  }
+  strong {
+    color: purple;
+  }
+}
+
+.afastados {
+  text-align: center;
+  i {
+    color: red;
+  }
+  strong {
+    color: red;
+  }
+}
